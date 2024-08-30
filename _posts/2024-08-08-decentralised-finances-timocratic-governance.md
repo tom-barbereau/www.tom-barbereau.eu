@@ -2,9 +2,8 @@
 layout: post
 title: Decentralised Finance’s timocratic governance
 date: 2023-04-25
-author: tom barbereau
-categories: academic
 short_description: in Technology in Society.
+tags: academic
 ---
 Ethereum’s public distributed ledger can issue tokenised voting rights that are tradable on crypto-asset exchanges by potentially anyone. Ethereum thus enables global, unincorporated associations to conduct governance experiments. Such experiments are crucial to Decentralised Finance (DeFi). DeFi is a nascent field of unlicensed, unregulated, and non-custodial financial services that utilise public distributed ledgers and crypto-assets rather than corporate structures and sovereign currencies.
 
