@@ -9,7 +9,7 @@ I'm a scientist specialist at the [Dutch Organisation for Applied Scientific Res
 
 My research principally focused on three technologies – blockchain, identity systems, and the metaverse – which I approach in a critical manner. As visiting researcher, I spent time at the [Institute for Information Law](https://www.ivir.nl/) (IViR), University of Amsterdam to work on questions of technology, governance, and the law.
 
-Having successfully collaborated with lawyers, mathematicians, and computer scientists, my strength lies in cross-disciplinary collaboration, to find logical relations between topics, and to untangle socio-technological controversies. I published impactful research in [Technology in Society](https://doi.org/10.1016/j.techsoc.2023.102251), [Philosophy & Technology](https://link.springer.com/article/10.1007/s13347-023-00612-z), [Government Information Quarterly](https://doi.org/10.1016/j.giq.2023.101873), [Computer Law and Security Review](https://doi.org/10.1016/j.clsr.2023.105829), and the [Academy for Computing Machinery](https://dl.acm.org/doi/10.1145/3649318) amongst other international conferences and edited books. You can find my most up-to-date portfolio on [GoogleScholar](https://scholar.google.com/citations?user=qvsfsEMAAAAJ&hl=en).
+Having successfully collaborated with lawyers, mathematicians, and computer scientists, my strength lies in cross-disciplinary collaboration, to find logical relations between topics, and to untangle socio-technological controversies. I published impactful research in [Technology in Society](https://doi.org/10.1016/j.techsoc.2023.102251), [Philosophy & Technology](https://link.springer.com/article/10.1007/s13347-023-00612-z), [Government Information Quarterly](https://doi.org/10.1016/j.giq.2023.101873), [Computer Law and Security Review](https://doi.org/10.1016/j.clsr.2023.105829), and the [Academy for Computing Machinery](https://dl.acm.org/doi/10.1145/3649318) among other contributions made in international conferences and edited books. You can find my most up-to-date portfolio on [GoogleScholar](https://scholar.google.com/citations?user=qvsfsEMAAAAJ&hl=en).
 
 Regularly, I talk at academic conference, lecture students, or speak at professional events. As per occasion, I address the different audiences at different levels of complexity. You can check out a list of them [here](/talks/).
 
@@ -17,7 +17,7 @@ Finally, in the style of [Jathan Sadowski](https://www.jathansadowski.com/), I t
 
 ### Personal interests
 
-Over the years I had the opportuntity to write for press and contribute to printed magazines.
+Over the years I had the opportunity to write for press and contribute to printed magazines.
 
 _In press_
 
