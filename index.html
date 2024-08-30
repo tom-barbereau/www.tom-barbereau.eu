@@ -3,18 +3,19 @@ layout: page
 title: Home
 ---
 
-<section>
+<section class="c-article__main">
   <p>
     Welcome to my personal website! I research the sociology and governance of information technology, with a particular interest in distributed (aka 'decentralised') systems. I have a background in information systems management (PhD). Currently, I work as a scientist at the Dutch Organisation for Applied Scientific Research. All views refelected on this website are my own and do not reflect those of my employer. 
   </p>
-
+</section>
+  
 <section class="c-archives">
   <link rel="shortcut icon" href="">
   {% for post in site.posts  %}
   {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
   {% capture next_year %}{{ post.previous.date | date: "%Y" }}{% endcapture %}
   {% if forloop.first %}
-  <h3 class="c-archives__year" id="{{ this_year }}-ref">{{this_year}}</h3>
+  <h2 class="c-archives__year" id="{{ this_year }}-ref">{{this_year}}</h2>
   <ul class="c-archives__list">
     {% endif %}
     <li class="c-archives__item">
