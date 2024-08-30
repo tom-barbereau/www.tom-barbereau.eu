@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: "Tag: thoughts"
+title: "thoughts"
 tag: thoughts
 permalink: /tags/thoughts/
 ---
