@@ -3,20 +3,12 @@ layout: content
 title: About
 permalink: /about/
 ---
-Hi, I'm Johnny and I live in the Shire. Thanks for visiting my site.
+I research the sociology and construction of information technology. I'm a scientist specialist at the \[Dutch Organisation for Applied Scientific Research\]([tno.nl](http://tno.nl)) (TNO) as part of the unit on ICT, Strategy, and Policy. All views on this website and \[blog\](/blog) are my own and do not reflect those of my employer.
 
-I program and write about software development when I have the time. More information can be found through <a href="https://www.linkedin.com/" data-network="LinkedIn" data-proofer-ignore>LinkedIn.</a>
+I earned my PhD in information systems management from the University of Luxembourg (Thesis: \[Politics, Power, and Information Systems\]([https://orbilu.uni.lu/handle/10993/58926](https://orbilu.uni.lu/handle/10993/58926))) as part of the \[Interdisciplinary Centre for Security, Reliability and Trust\]([https://www.uni.lu/snt-en/](https://www.uni.lu/snt-en/)) (SnT). My research principally focused on three technologies – blockchain, identity systems, and the metaverse – which I approach in a critical manner. As visiting researcher, I spent time at the \[Institute for Information Law\]([https://www.ivir.nl/](https://www.ivir.nl/)) (IViR), University of Amsterdam to work on questions of technology, governance, and the law. I hold an MSc in Science & Technology Studies from the University of Edinburgh and a BA in Liberal Arts & Sciences from the University of Groningen.
 
-----
+Having successfully collaborated with lawyers, mathematicians, and computer scientists, my strength lies in cross-disciplinary collaboration, to find logical relations between topics, and to untangle socio-technological controversies. I published impactful research in \[Technology in Society\]([https://doi.org/10.1016/j.techsoc.2023.102251](https://doi.org/10.1016/j.techsoc.2023.102251)), \[Philosophy & Technology\]([https://link.springer.com/article/10.1007/s13347-023-00612-z](https://link.springer.com/article/10.1007/s13347-023-00612-z)), \[Government Information Quarterly\]([https://doi.org/10.1016/j.giq.2023.101873](https://doi.org/10.1016/j.giq.2023.101873)), \[Computer Law and Security Review\]([https://doi.org/10.1016/j.clsr.2023.105829](https://doi.org/10.1016/j.clsr.2023.105829)), and the \[Academy for Computing Machinery\]([https://dl.acm.org/doi/10.1145/3649318](https://dl.acm.org/doi/10.1145/3649318)) amongst other international conferences and edited books. You can find my most up-to-date portfolio on \[GoogleScholar\]([https://scholar.google.com/citations?user=qvsfsEMAAAAJ&hl=en](https://scholar.google.com/citations?user=qvsfsEMAAAAJ&hl=en)).
 
-## The Website
-This site was made on an [Apple MBP](https://www.apple.com/) powered by [Jekyll](https://jekyllrb.com) on [Github Pages](https://pages.github.com).
-I'd love to hear your feedback on this site and my work.
+Regularly, I \[talk\]([https://tom-barbereau.github.io/talks](https://tom-barbereau.github.io/talks)) at academic conference, lecture students, or speak at professional events. As per occassion, I address the different audiences at different levels of complexity. You can check out a list of them
 
-----
-
-## Etcetera
-
-- [Instagram](https://www.instagram.com/) for 📸
-- [Facebook](https://www.facebook.com/) for 🕺
-
+Finally, in the style of \[Jathan Sadowski\]([https://www.jathansadowski.com/](https://www.jathansadowski.com/)), I too wrote up a personal statement on how I think about the politics and power of technology. Like for Jathan, I believe it of value given that as social scientist I am frequently asked why I study technology in the first place and, more provocatively, what my contribution might even be as a \\\`non-technical' guy. You can read this statement on my blog.
