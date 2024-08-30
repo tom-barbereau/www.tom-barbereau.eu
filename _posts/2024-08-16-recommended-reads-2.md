@@ -2,8 +2,7 @@
 layout: post
 title: Recommended reads (2)
 date: 2024-07-30
-author: tom barbereau
-categories: thoughts
+tags: thoughts
 ---
 [Networks of Power](https://www.press.jhu.edu/books/title/2031/networks-power) by _Thomas Hughes_ (1983): The book "not only provides an accurate representation of large-scale technological change but also demonstrates that technology itself cannot be understood or directed unless placed in a cultural context."
 
