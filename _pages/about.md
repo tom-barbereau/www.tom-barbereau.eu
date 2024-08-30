@@ -13,6 +13,22 @@ Having successfully collaborated with lawyers, mathematicians, and computer scie
 
 Regularly, I talk at academic conference, lecture students, or speak at professional events. As per occasion, I address the different audiences at different levels of complexity. You can check out a list of them [here](/talks/).
 
-Finally, in the style of [Jathan Sadowski](https://www.jathansadowski.com/), I too wrote up a personal statement on how I think about the politics and power of technology. Like for Jathan, I believe it of value given that as social scientist I am frequently asked why I study technology in the first place and, more provocatively, what my contribution might even be as a \`non-technical' guy. You can read this statement on my blog.
+Finally, in the style of [Jathan Sadowski](https://www.jathansadowski.com/), I too wrote up a personal statement on how I think about the politics and power of technology. Like for Jathan, I believe it of value given that as social scientist I am frequently asked why I study technology in the first place and, more provocatively, what my contribution might even be as a \`non-technical' guy. You can read this statement, along with other thoughts of mine, [here](/tags/thoughts/).
 
 ### Personal interests
+
+Over the years I had the opportuntity to write for press and contribute to printed magazines.
+
+_In press_
+
+**Barbereau, T.** (2020). "Interview With Jocks And Nerds: Gary Lichtenstein". _Jocks & Nerds_. url: [www.gleditions.com/post/interview-with-jocks-and-nerds-gary-lichtenstein](http://www.gleditions.com/post/interview-with-jocks-and-nerds-gary-lichtenstein).
+
+Fridgen, G. & **Barbereau, T.** (2022). "DeFi Governance Tokens und die Bildung von Oligarchien". _BTC Echo_. url: [www.btc-echo.de/news/defi-governance-token-und-die-bildung-von-oligarchien-151322/](http://www.btc-echo.de/news/defi-governance-token-und-die-bildung-von-oligarchien-151322/)
+
+_In print_
+
+Slanted Magazine (2019). "#34 — Europe". ISSN 1867-6510. url: [slanted.de/slanted-34-europe/](http://slanted.de/slanted-34-europe/).
+
+Slanted Magazine (2020). "#36 - COEXIST". ISSN 1867-6510. url: [slanted.de/slanted-36-coexist/](http://slanted.de/slanted-36-coexist/).
+
+Slanted Magazine (2021). "#37 - AI". ISSN 1867-6510. url: [slanted.de/slanted-37-ai/](http://slanted.de/slanted-37-ai/).
