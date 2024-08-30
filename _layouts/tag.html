@@ -1,0 +1,19 @@
+---
+layout: page
+---
+<article class="c-article">
+  <header class="c-article__header">
+    <h1 class="c-article__title">Posts tagged with "{{ page.tag }}"</h1>
+  </header>
+  
+  <ul>
+    {% for post in site.posts %}
+      {% if post.tags contains page.tag %}
+        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+  
+  <footer class="c-article__footer">
+  </footer>
+</article>
