@@ -2,9 +2,8 @@
 layout: post
 title: Agent-Based Model of Initial Token Allocations
 date: 2024-03-23
-author: tom barbereau
-categories: academic
 short_description: in ACM Transactions on Management Information Systems.
+tags: academic
 ---
 With advancements in distributed ledger technologies and smart contracts, tokenized voting rights gained prominence within decentralized finance (DeFi). Voting rights tokens (a.k.a. governance tokens) are fungible tokens that grant individual holders the right to vote upon the fate of a project. The motivation behind these tokens is to achieve decentral control within a decentralized autonomous organization (DAO).
 
