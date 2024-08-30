@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: "Tag: news"
+title: "news"
 tag: news
 permalink: /tags/news/
 ---
