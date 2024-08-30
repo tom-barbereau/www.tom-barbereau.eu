@@ -18,6 +18,9 @@ content:
       - name: external_url
         label: External Url
         type: link
+      - name: short_description
+        label: Description
+        type: string
       - name: tags
         label: Tags
         type: string  
