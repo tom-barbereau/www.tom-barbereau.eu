@@ -2,9 +2,8 @@
 layout: post
 title: The Metaverse’s Thirtieth Anniversary
 date: 2023-07-22
-author: tom barbereau
-categories: academic
 short_description: in Philosophy and Technology.
+tags: academic
 ---
 The metaverse is equivocal. It is a science-fictional concept from the past; it is the present’s rough implementations; and it is the Promised Cyberland, expected to manifest some time in the future. The metaverse first emerged as a techno-capitalist network in a 1992 science fiction novel by Neal Stephenson. Our article thus marks the metaverse’s thirtieth anniversary.
 
