@@ -5,8 +5,6 @@ description: >
 
 author: Tom Barbereau
 email: johnny@appleseed.com
-twitter_username: _HairForceOne
-github_username: mkchoi212
 
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://tom-barbereau.github.io" # the base hostname & protocol for your site
