@@ -2,8 +2,7 @@
 layout: post
 title: Recommended reads (1)
 date: 2024-07-12
-author: tom barbereau
-categories: thoughts
+tags: thoughts
 ---
 [The Net Delusion](https://www.goodreads.com/en/book/show/10003400) by _Evgeny Morozov_ (2010): The book argues that "by falling for the supposedly democratising nature of the Internet, we may have missed how it also entrenches dictators, threatens dissidents, and makes it harder - not easier - to promote democracy."
 
