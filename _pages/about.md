@@ -7,6 +7,8 @@ I'm a scientist specialist at the [Dutch Organisation for Applied Scientific Res
 
 I am born in Karlsruhe, Germany and was raised in a bilingual household (French, German). Since 2022, I live in Amsterdam and nurture my knowledge of Dutch.
 
+![](/assets/me.jpeg)
+
 ## Academic interests
 
 My doctoral research principally focuses on three technologies – blockchain, identity systems, and the metaverse – which I approached from the perspective of critical studies of information systems (i.e., STS, critical theory, organisation sciences). As visiting researcher, I spent time at the [Institute for Information Law](https://www.ivir.nl/) (IViR), University of Amsterdam to work on questions of peer-to-peer technologies, their governance, and the law.
