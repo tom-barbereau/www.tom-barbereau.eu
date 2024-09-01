@@ -7,10 +7,8 @@ title: Home
   <p>
     Welcome to my personal website! I research the sociology and governance of information technology, with a particular interest in distributed (aka 'decentralised') systems. I have a background in information systems management (PhD). Currently, I work as a scientist at the Dutch Organisation for Applied Scientific Research. All views refelected on this website are my own and do not reflect those of my employer. 
   </p>
-</section>
-
-<section>
   <h2>Latest posts</h2>
+</section>
   
 <ul class="c-archives__list">
   {% assign thoughts_posts = site.posts | where: "tags", "thoughts" | sort: "date" | reverse %}
@@ -33,5 +31,3 @@ title: Home
     </li>
   {% endfor %}
 </ul>
-  
-</section>
