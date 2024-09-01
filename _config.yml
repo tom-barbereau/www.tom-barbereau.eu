@@ -1,15 +1,15 @@
 # Site settings
 title: "Tom Barbereau"
 description: > 
-  Scientist, researcher, critical thinker.
+  Scientist, pragmatist, critical thinker.
 
 author: Tom Barbereau
-email: johnny@appleseed.com
+email: tom.barbereau@tno.nl
 
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://tom-barbereau.github.io" # the base hostname & protocol for your site
 
-google_analytics_id: UA-1111111111-1
+google_analytics_id: UA-455770199-1
 disqus_id:
 
 # Build settings
