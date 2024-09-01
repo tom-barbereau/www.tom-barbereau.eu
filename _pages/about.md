@@ -7,7 +7,7 @@ I'm a scientist specialist at the [Dutch Organisation for Applied Scientific Res
 
 I am born in Karlsruhe, Germany and was raised in a bilingual household (French, German). Since 2022, I live in Amsterdam and nurture my knowledge of Dutch.
 
-### Academic interests
+## Academic interests
 
 My doctoral research principally focuses on three technologies – blockchain, identity systems, and the metaverse – which I approached from the perspective of critical studies of information systems (i.e., STS, critical theory, organisation sciences). As visiting researcher, I spent time at the [Institute for Information Law](https://www.ivir.nl/) (IViR), University of Amsterdam to work on questions of peer-to-peer technologies, their governance, and the law.
 
@@ -17,7 +17,7 @@ Regularly, I talk at academic conference, lecture students, or speak at professi
 
 In the style of [Jathan Sadowski](https://www.jathansadowski.com/), I too wrote up a personal statement on how I think about the politics and power of technology. Like for Jathan, I believe it of value given that as social scientist I am frequently asked why I study technology in the first place and, more provocatively, what my contribution might even be as a \`non-technical' guy. You can read this statement, along with other thoughts of mine, [here](/tags/thoughts/).
 
-### Personal interests
+## Personal interests
 
 Over the years I had the opportunity to write for press and contribute to printed magazines reflecting some of my personal interests.
 
