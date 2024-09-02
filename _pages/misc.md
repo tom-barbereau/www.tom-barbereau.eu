@@ -3,9 +3,7 @@ layout: content
 title: Miscellaneous
 permalink: /misc/
 ---
-xxlsd
-
-### Colophon
+## Colophon
 
 *   Built using [Jekyll](https://jekyllrb.com/), based on the [paper theme](https://github.com/mkchoi212). All the code for this site is open source and available on [Github](https://github.com/tom-barbereau/tom-barbereau.github.io/tree/master).
     
