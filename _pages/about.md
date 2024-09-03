@@ -3,7 +3,7 @@ layout: content
 title: About
 permalink: /about/
 ---
-I'm a scientist specialist at the [Dutch Organisation for Applied Scientific Research](tno.nl) (TNO) as part of the unit on ICT, Strategy, and Policy. I earned my PhD in information systems management from the University of Luxembourg (Thesis: [Politics, Power, and Information Systems](https://orbilu.uni.lu/handle/10993/58926)) as part of the [Interdisciplinary Centre for Security, Reliability and Trust](https://www.uni.lu/snt-en/) (SnT). I hold an MSc in Science & Technology Studies from the University of Edinburgh and a BA in Liberal Arts & Sciences from the University of Groningen.
+I'm a scientist specialist at the [Dutch Organisation for Applied Scientific Research](tno.nl) (TNO) as part of the unit on ICT, Strategy, and Policy (Digital Goverance and Regulation). I earned my PhD in information systems management from the University of Luxembourg (Thesis: [Politics, Power, and Information Systems](https://orbilu.uni.lu/handle/10993/58926)) as part of the [Interdisciplinary Centre for Security, Reliability and Trust](https://www.uni.lu/snt-en/) (SnT). I hold an MSc in Science & Technology Studies from the University of Edinburgh and a BA in Liberal Arts & Sciences from the University of Groningen.
 
 I am born in Karlsruhe, Germany and was raised in a bilingual household (French, German). Since 2022, I live in Amsterdam and nurture my knowledge of Dutch.
 
