@@ -10,10 +10,10 @@ title: Home
   <p>
     I work as a scientist at the <a target="_blank" href="https://vector.tno.nl/en/about/team/tom-barbereau/">Dutch Organisation for Applied Scientific Research</a>, Centre for Societal Innovation and Strategy. All views refelected on this website are my own and do not reflect those of my employer. 
   </p>
-  <h2>Latest posts</h2>
 </section>
 
 <section class="c-archives">
+  <h2>Latest posts</h2>
 <ul class="c-archives__list">
   {% assign thoughts_posts = site.posts | where: "tags", "thoughts" | sort: "date" | reverse %}
   {% for post in thoughts_posts limit:3 %}
