@@ -21,21 +21,40 @@ layout: page
   
   <!-- Previous / Next Buttons -->
   <div class="pagenav">
-    {% if page.previous.url %}
-    <div class="wrapper" id="left">
-      <small><b>Previous</b> {{page.previous.date | date: "%b %-d, %Y"}}</small>
-      <br>
-      <a class="no-hov" href="{{ page.previous.url | prepend: site.baseurl }}">&laquo; {{page.previous.title}}</a>
-    </div>
-    {% endif %}
-    {% if page.next.url %}
-    <div class="wrapper" id="right">
-      <small>{{page.next.date | date: "%b %-d, %Y"}} <b>Next</b></small>
-      <br>
-      <a class="no-hov" href="{{ page.next.url | prepend: site.baseurl }}">{{page.next.title}} &raquo;</a>
-    </div>
-    {% endif %}
+    {% assign previous_thought = nil %}
+    {% assign next_thought = nil %}
+  
+    {%- for post in site.posts reversed -%}
+      {%- if post.tags contains "thoughts" and post.date < page.date -%}
+        {% assign previous_thought = post %}
+        {%- break -%}
+      {%- endif -%}
+    {%- endfor -%}
+  
+    {%- for post in site.posts -%}
+      {%- if post.tags contains "thoughts" and post.date > page.date -%}
+        {% assign next_thought = post %}
+        {%- break -%}
+      {%- endif -%}
+    {%- endfor -%}
+  
+    {% if previous_thought %}
+  <div class="wrapper" id="left">
+    <small><b>Previous</b> {{ previous_thought.date | date: "%b %-d, %Y" }}</small>
+    <br>
+    <a class="no-hov" href="{{ previous_thought.url | prepend: site.baseurl }}">&laquo; {{ previous_thought.title }}</a>
   </div>
+  {% endif %}
+
+  {% if next_thought %}
+  <div class="wrapper" id="right">
+    <small>{{ next_thought.date | date: "%b %-d, %Y" }} <b>Next</b></small>
+    <br>
+    <a class="no-hov" href="{{ next_thought.url | prepend: site.baseurl }}">{{ next_thought.title }} &raquo;</a>
+  </div>
+  {% endif %}
+</div>
+
   
   <!-- Disqus comments view -->
   {% if page.comments != false and site.disqus_id %}
