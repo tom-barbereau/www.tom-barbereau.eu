@@ -5,15 +5,51 @@ title: Home
 
 <section class="c-article__main">
   <p>
-    Welcome to my personal website! I research the sociology and governance of information technology, with a particular interest in decentralised (<i>quasi</i> distributed) systems. I have a background in information systems management (PhD) and sociology of technologies (MSc). 
+     I research the sociology and governance of information technology, with a particular interest in decentralised (<i>quasi</i> distributed) systems. I provide answers to organisational and policy questions in their application and implications. I have a background in information systems management (PhD) and sociology of technologies (MSc). 
   </p>
   <p>
-    I work as a scientist at the <a target="_blank" href="https://vector.tno.nl/en/about/team/tom-barbereau/">Dutch Organisation for Applied Scientific Research</a>, Centre for Societal Innovation and Strategy. All views refelected on this website are my own and do not reflect those of my employer. 
+    I work as a scientist at the <a target="_blank" href="https://vector.tno.nl/en/about/team/tom-barbereau/">Dutch Organisation for Applied Scientific Research</a>, Centre for Societal Innovation and Strategy. I was a researcher at the <a target="_blank" href="https://www.uni.lu/snt-en/">Interdisciplinary Centre for Reliability, Security, and Trust</a> (University of Luxembourg) and visiting researcher the <a target="_blank" href="https://www.ivir.nl/">Institute for Information Law</a> (University of Amsterdam). 
   </p>
 </section>
 
 <section class="c-archives">
-  <h2 class="c-archives__year">Latest posts</h2>
+  <h2 class="c-archives__year">Selected publications</h2>
+<ul class="c-archives__list">
+    <li class="c-archives__item">
+      <h3>
+          <a target="_blank" href="https://www.sciencedirect.com/science/article/pii/S0160791X23000568">Decentralised Finance's Timocratic Governance</a>
+        <br>
+        <small> The distribution and exercise of tokenised voting rights</small>
+      </h3>
+      <p>Technology in Society (2023)</p>
+    </li>
+      <li class="c-archives__item">
+      <h3>
+          <a target="_blank" href="https://www.sciencedirect.com/science/article/pii/S0740624X23000734">The Construction of Self-sovereign Identity</a>
+        <br>
+        <small>Extending the interpretive flexibility of technology towards institutions</small>
+      </h3>
+      <p>Governemnt Information Quarterly (2023)</p>
+    </li>
+        <li class="c-archives__item">
+      <h3>
+          <a target="_blank" href="https://link.springer.com/article/10.1007/s13347-023-00612-z">The Metaverse’s Thirtieth Anniversary</a>
+        <br>
+        <small>From a Science-Fictional Concept to the Connect Wallet Prompt</small>
+      </h3>
+      <p>Philosophy and Technology (2023)</p>
+    </li>
+</ul>
+</section>
+
+<section>
+    <p>
+    On this site I also publish some of my thougths on a blog. Frequently I talk in academic settings and provide keynotes. All views refelected on this website are my own. 
+  </p>
+</section>
+
+<section class="c-archives">
+  <h2 class="c-archives__year">Latest blog posts</h2>
 <ul class="c-archives__list">
   {% assign thoughts_posts = site.posts | where: "tags", "thoughts" | sort: "date" | reverse %}
   {% for post in thoughts_posts limit:3 %}
