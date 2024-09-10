@@ -21,36 +21,36 @@ layout: page
   
   <!-- Previous / Next Buttons -->
   <div class="pagenav">
-    {% assign previous_thought = nil %}
-    {% assign next_thought = nil %}
+    {% assign previous_thoughts = nil %}
+    {% assign next_thoughts = nil %}
   
     {%- for post in site.posts reversed -%}
       {%- if post.tags contains "thoughts" and post.date < page.date -%}
-        {% assign previous_thought = post %}
+        {% assign previous_thoughts = post %}
         {%- break -%}
       {%- endif -%}
     {%- endfor -%}
   
     {%- for post in site.posts -%}
       {%- if post.tags contains "thoughts" and post.date > page.date -%}
-        {% assign next_thought = post %}
+        {% assign next_thoughts = post %}
         {%- break -%}
       {%- endif -%}
     {%- endfor -%}
   
-    {% if previous_thought %}
+    {% if previous_thoughts %}
   <div class="wrapper" id="left">
-    <small><b>Previous</b> {{ previous_thought.date | date: "%b %-d, %Y" }}</small>
+    <small><b>Previous</b> {{ previous_thoughts.date | date: "%b %-d, %Y" }}</small>
     <br>
-    <a class="no-hov" href="{{ previous_thought.url | prepend: site.baseurl }}">&laquo; {{ previous_thought.title }}</a>
+    <a href="{{ previous_thoughts.url | prepend: site.baseurl }}">&laquo; {{ previous_thoughts.title }}</a>
   </div>
   {% endif %}
 
-  {% if next_thought %}
+  {% if next_thoughts %}
   <div class="wrapper" id="right">
-    <small>{{ next_thought.date | date: "%b %-d, %Y" }} <b>Next</b></small>
+    <small>{{ next_thoughts.date | date: "%b %-d, %Y" }} <b>Next</b></small>
     <br>
-    <a class="no-hov" href="{{ next_thought.url | prepend: site.baseurl }}">{{ next_thought.title }} &raquo;</a>
+    <a href="{{ next_thoughts.url | prepend: site.baseurl }}">{{ next_thoughts.title }} &raquo;</a>
   </div>
   {% endif %}
 </div>
