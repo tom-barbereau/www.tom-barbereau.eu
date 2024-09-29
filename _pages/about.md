@@ -19,16 +19,6 @@ Regularly, I talk at academic conference, lecture students, or speak at professi
 
 In the style of [Jathan Sadowski](https://www.jathansadowski.com/), I too wrote up a personal statement on how I think about the politics and power of technology. Like for Jathan, I believe it of value given that as social scientist I am frequently asked why I study technology in the first place and, more provocatively, what my contribution might even be as a \`non-technical' guy. You can read this statement, along with other thoughts of mine, [here](/tags/thoughts/).
 
-## Personal interests
+## Miscellaneous
 
-Over the years I had the opportunity to write for press and contribute to printed magazines reflecting some of my personal interests.
-
-*   Fridgen, G. & **Barbereau, T.** (2022). "DeFi Governance Tokens und die Bildung von Oligarchien". [_BTC Echo_](www.btc-echo.de/news/defi-governance-token-und-die-bildung-von-oligarchien-151322/).
-    
-*   Slanted Magazine (2021). "#37 - AI". ISSN 1867-6510. url: [slanted.de/slanted-37-ai/](http://slanted.de/slanted-37-ai/)
-    
-*   Slanted Magazine (2020). "#36 - COEXIST". ISSN 1867-6510. url: [slanted.de/slanted-36-coexist/](http://slanted.de/slanted-36-coexist/).
-    
-*   **Barbereau, T.** (2020). "Interview With Jocks And Nerds: Gary Lichtenstein". [_Jocks & Nerds_](www.gleditions.com/post/interview-with-jocks-and-nerds-gary-lichtenstein.).
-    
-*   Slanted Magazine (2019). "#34 — Europe". ISSN 1867-6510. url: [slanted.de/slanted-34-europe/](http://slanted.de/slanted-34-europe/).
+Over the years I had the opportunity to write for press and contribute to printed magazines reflecting some of my personal interests. I have written for the design and typography magazine Slanted (Issues [#34 - Europe](http://slanted.de/slanted-34-europe/), [#36 - Coexist](slanted.de/slanted-36-coexist/), and [#37 - Artificial intelligence](https://www.slanted.de/product/slanted-magazine-37-ai/)) and the lifestyle magazine [Jocks & Nerds](www.gleditions.com/post/interview-with-jocks-and-nerds-gary-lichtenstein.).
