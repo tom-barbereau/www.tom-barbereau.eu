@@ -9,6 +9,10 @@ The theme uniting all of my talks is the critical perspective I bring to the dis
 
 * * *
 
+**The Curious Case of Uniswap**  
+Lecture (Advanced Master of Laws) at the University of Amsterdam  
+Amsterdam, The Netherlands (September, 2024)
+
 **Entrepreneurship powered by blockchain**  
 Lecture at the Kyoto University of Advanced Science  
 Kyoto, Japan (January, 2024)
