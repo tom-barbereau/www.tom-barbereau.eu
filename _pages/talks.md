@@ -3,9 +3,9 @@ layout: content
 title: Talks
 permalink: /talks/
 ---
-Regularly, I talk at academic conference, lecture students, or speak at professional events. As per occassion, I address the different audiences at different levels of complexity.
+Regularly, I talk at academic conference, lecture students, or speak at professional events. As per occasion, I address the different audiences at different levels of complexity.
 
-The theme uniting all of my talks is the critical perspective I bring to the discussion of technologies. I go beyond the surface-level fascination with innovation and progress to explore the deeper implications of technology. I emphasise the importance of questioning the [political](https://www.jstor.org/stable/20024652?origin=JSTOR-pdf) of technologies. By examining the political and the exercise of actors' power, I encourage my audience to consider how these tools shape our lives and (subconsciously) influence our decisions.
+The theme uniting all of the talks I give is the critical perspective I bring to the discussion of technologies. I go beyond the surface-level fascination with innovation and progress to explore their deeper implications. I emphasise the importance of questioning the [political](https://www.jstor.org/stable/20024652?origin=JSTOR-pdf) and, by examining it and the exercise of actors' power, I encourage my audience to consider how technologies shape our lives and (subconsciously) influence our decisions.
 
 * * *
 
