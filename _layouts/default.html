@@ -2,6 +2,24 @@
 <html>
   {% include head.html %}
   <body>
+    <div itemscope itemtype="http://schema.org/Person">
+    <meta itemprop="name" content="Tom Barbereau">
+    <meta itemprop="url" content="https://tom-barbereau.github.io">
+    <meta itemprop="jobTitle" content="Researcher">
+    <meta itemprop="description" content="Tom Barbereau is a researcher specializing in disruptive technologies and their governance.">
+    <meta itemprop="gender" content="male">
+    <meta itemprop="honorificSuffix" content="PhD">
+    <meta itemprop="expertise" content="Governance, Innovation">
+    
+    <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+      <meta itemprop="addressLocality" content="Amsterdam">
+      <meta itemprop="addressCountry" content="NL">
+    </div>
+
+    <a itemprop="sameAs" href="https://www.linkedin.com/in/tombarbereau"></a>
+    <a itemprop="sameAs" href="https://github.com/tom-barbereau"></a>
+  </div>
+    
     <main class="u-container">
       {{ content }}
     </main>
