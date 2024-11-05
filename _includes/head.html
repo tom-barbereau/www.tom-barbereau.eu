@@ -6,6 +6,39 @@
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
   <meta name="google-site-verification" content="AOZ2eg6KqCyYfZNUYMtAPs1NyNOd99tt7sJSPNGNwF4"/>
+
+
+
+    <!-- Schema.org JSON-LD for Person -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Tom Barbereau",
+      "url": "https://tom-barbereau.github.io",
+      "jobTitle": "Researcher",
+      "description": "Tom Barbereau is a researcher specializing in disruptive technologies and innovation systems.",
+      "gender": "male",
+      "honorificSuffix": "PhD",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Amsterdam",
+        "addressCountry": "NL"
+      },
+      "worksFor": {
+        "@type": "Organization",
+        "name": "TNO",
+        "url": "https://www.tno.nl/"
+        },
+      "sameAs": [
+        "https://www.linkedin.com/in/tombarbereau",
+        "https://github.com/tom-barbereau",
+        "https://scholar.google.nl/citations?user=qvsfsEMAAAAJ&hl=en",
+        "https://x.com/tombarbereau"
+      ]
+    }
+    </script>
+  
   
   <!-- Google Fonts -->
   <link href='https://fonts.googleapis.com/css?family=Roboto+Mono|Roboto:300,400,900,400italic' rel='stylesheet' type='text/css'>
