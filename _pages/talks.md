@@ -18,7 +18,7 @@ Lecture (BSc in Management) at the Kyoto University of Advanced Science
 Kyoto, Japan (January, 2024)
 
 **Beyond A Fistful of Tumblers**  
-Talk at the [International Conference on Information Systems](icis2023.aisconferences.org)  
+Talk at the [International Conference on Information Systems](https://icis2023.aisconferences.org/)  
 Hyderabad, India (December, 2023)
 
 **The Decentralised Web as the Cause of Organisations**  
@@ -34,9 +34,9 @@ Talk at [Melville Brand Design](https://www.melvilledesign.de)
 Munich, Germany (December, 2022)
 
 **Regulation of Unregulated Crypto-asset Software**  
-Talk at the University of Amsterdam's [Institute for Information Law](www.ivir.nl) (IViR)  
+Talk at the University of Amsterdam's [Institute for Information Law](https://www.ivir.nl/) (IViR)  
 Amsterdam, The Netherlands (November, 2022)
 
 **Decentralised Finance, Not so Decentralised**  
-Talk at the [Hawaii International Conference of Information Systems](hicss.hawaii.edu) (HICSS)  
+Talk at the [Hawaii International Conference of Information Systems](https://hicss.hawaii.edu/) (HICSS)  
 Honolulu, United States (January, 2022)
